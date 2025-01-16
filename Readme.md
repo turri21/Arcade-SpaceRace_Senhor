@@ -1,3 +1,8 @@
+-=(SpaceRace_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # Arcade Space Race for MiSTer
 
 + FPGA implementation of Arcade _Space Race_ (Atari, 1973) for MiSTer.
